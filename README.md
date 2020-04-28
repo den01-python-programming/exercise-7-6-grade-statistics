@@ -4,11 +4,11 @@ In this exercise we create a program for printing statistics for points in cours
 
 A string read from the user can be converted to an integer using the method `int`. It works as follows:
 
-```java
-numberAsString = "3"
-number = int(numberAsString)
+```python
+number_as_string = "3"
+number = int(number_as_string)
 
-print(numberAsString + 7)
+print(number_as_string + 7)
 print(number + 7)
 ```
 
@@ -107,7 +107,7 @@ Extend the program, such that it also prints the grade distribution. The grade d
 Point | Grade
 --- | ---
 < 50 | 0
-< 60 | 1 
+< 60 | 1
 < 70 | 2
 < 80 | 3
 < 90 | 4
@@ -137,3 +137,5 @@ Grade distribution:
 1:
 0: **
 ```
+
+**NB** You're free to structure your program the way you want. There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it. 
