@@ -138,4 +138,4 @@ Grade distribution:
 0: **
 ```
 
-**NB** You're free to structure your program the way you want. There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it. 
+**NB** You're free to structure your program the way you want. There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it.
